@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Página-1" id="DdqVEjxWV9j-FztvbuZL">
-        <mxGraphModel dx="1322" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="733" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -19,7 +19,7 @@
                 <mxCell id="TBi-Q04tMXfI57RiMe90-5" parent="1" style="html=1;whiteSpace=wrap;" value="DescontoValorFixo" vertex="1">
                     <mxGeometry height="50" width="150" x="615" y="320" as="geometry"/>
                 </mxCell>
-                <mxCell id="TBi-Q04tMXfI57RiMe90-6" edge="1" parent="1" source="TBi-Q04tMXfI57RiMe90-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=16;" target="TBi-Q04tMXfI57RiMe90-1">
+                <mxCell id="TBi-Q04tMXfI57RiMe90-6" edge="1" parent="1" source="TBi-Q04tMXfI57RiMe90-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=16;" target="TBi-Q04tMXfI57RiMe90-1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="TBi-Q04tMXfI57RiMe90-7" connectable="0" parent="TBi-Q04tMXfI57RiMe90-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" value="1&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
@@ -46,6 +46,12 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="126" y="330" as="sourcePoint"/>
                         <mxPoint x="194" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="PBxdsrwz61YjIhlyW2tj-1" edge="1" parent="1" source="TBi-Q04tMXfI57RiMe90-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;endSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="TBi-Q04tMXfI57RiMe90-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="530" y="220" as="sourcePoint"/>
+                        <mxPoint x="620" y="200" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
